@@ -6,7 +6,7 @@ Stack: Django, Django REST, React, Redux
 
 Used: bootswatch(customized bootstrap), bootstrap
 
-Here is a video of a presentation/demo of our project: https://youtu.be/BpQ55klMCz4
+Here is a video of the presentation/demo of our project: https://youtu.be/BpQ55klMCz4
 
 ![image](https://user-images.githubusercontent.com/52847195/113435340-9186f480-93b0-11eb-98dc-b69d8e9f901a.png)
 
